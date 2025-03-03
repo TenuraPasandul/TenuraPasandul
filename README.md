@@ -4,7 +4,7 @@
 ## 🚀 About Me  
 💻 I’m a passionate developer interested in Full Stack Development.  
 🎯 Always eager to learn new technologies and optimize workflows.  
-📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+📫 Reach me at: tenurapasandul2000@gmail.com(mailto:tenurapasandul2000@gmail.com)
 
 ---
 
