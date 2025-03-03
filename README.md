@@ -1,4 +1,4 @@
-# Hi there, I'm Tenura Pasandul @ Bizzman 👋
+# Hi there, I'm Tenura Pasandul👋
 
 
 ## 🚀 About Me  
