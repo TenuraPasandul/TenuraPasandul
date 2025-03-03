@@ -20,10 +20,6 @@
 
 ---
 
-## ⚡ Fun Fact  
-🎵 I also create music! Check out my song **"Endlessly"** 🎶  
-
----
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tenura-pasandul)  
