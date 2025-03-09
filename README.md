@@ -27,9 +27,9 @@
 ---
 
 ### 🛠️ Skills  
-- **Frontend:** React.js, JavaScript, HTML, CSS  
+- **Frontend:** React.js, TypeScript, JavaScript, HTML, CSS  
 - **Backend:** Node.js, Django, PHP  
-- **Database:** MongoDB, MySQL  
+- **Database:** MongoDB, MySQL, PostgreSQL  
 - **Tools:** Git, Docker, VS Code, Postman  
 
 ---
