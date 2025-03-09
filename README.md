@@ -9,8 +9,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![image](https://github.com/user-attachments/assets/203e65ad-ee12-49f8-a102-751d8ad686ab)
-
+![image](https://github.com/user-attachments/assets/81b33ea4-ed42-45e3-b4db-4ffcac55287f)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TenuraPasandul&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TenuraPasandul&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TenuraPasandul&theme=dark)  
