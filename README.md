@@ -18,7 +18,7 @@
 ---
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TenuraPasandul&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TenuraPasandul&theme=onedark&count_private=true)
 
 ---
 
