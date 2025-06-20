@@ -32,7 +32,7 @@
 - **Frontend:** React.js, TypeScript, JavaScript, HTML, CSS  
 - **Backend:** Node.js, Django, PHP  
 - **Database:** MongoDB, MySQL, PostgreSQL  
-- **Tools:** Git, Docker, VS Code, Postman  
+- **Tools:** Git, Docker, VS Code, Postman, PlayWright  
 
 ---
 
